@@ -1,0 +1,6 @@
+INSERT INTO employee_data (employee_name, email_address, contact,,gender,country,designation) VALUES ('dfdf', 'dfdf@gami.com', '45','fdf','Male',' fdf')
+INSERT INTO employee_data (employee_name, email_address, contact,gender,country,designation) VALUES ('sraboni', 'sraboni@gmail.com', '454','g','Male',' hgh')
+INSERT INTO employee_data (employee_name, email_address, contact,gender,country,designation) VALUES ('dfgf', 'fdhfjh@gmail.com', '565','fgfg','Male',' fgfg')
+INSERT INTO employee_data (employee_name, email_address, contact,gender,country,designation) VALUES ('sraboni', 'sraboni@gmail.com', '4546','dfd','Female',' dfgdfg')
+INSERT INTO employee_data (employee_name, email_address, contact,gender,country,designation) VALUES ('sraboni', 'sraboni@gmail.com', '45456','eerfef','Female',' dsfdf')
+INSERT INTO employee_data (employee_name, email_address, contact,gender,country,designation) VALUES ('sraboni', 'sraboni@gmail.com', '0138477984','mirpur14','Female',' admin')

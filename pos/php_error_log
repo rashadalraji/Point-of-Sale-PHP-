@@ -1,0 +1,5 @@
+[24-Oct-2017 17:04:12 Asia/Dhaka] PHP Notice:  Undefined index: image in E:\xampp\htdocs\r33\php\class\039\BLOG\index.php on line 74
+[24-Oct-2017 17:04:12 Asia/Dhaka] PHP Notice:  Undefined index: image in E:\xampp\htdocs\r33\php\class\039\BLOG\index.php on line 74
+[24-Oct-2017 17:04:12 Asia/Dhaka] PHP Notice:  Undefined index: image in E:\xampp\htdocs\r33\php\class\039\BLOG\index.php on line 74
+[26-Oct-2017 18:30:19 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '{' in E:\xampp\htdocs\r33\php\class\039\BLOG\single.php on line 116
+[26-Oct-2017 18:36:06 Asia/Dhaka] PHP Notice:  A session had already been started - ignoring session_start() in E:\xampp\htdocs\r33\php\class\039\BLOG\admin\inc\isAdmin.php on line 2
